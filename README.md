@@ -40,7 +40,7 @@ No persistence or forced Safe Mode
 This tool simply exposes existing system behavior in a user-friendly way
 
 Build Environment
-macOS 10.11
+macosx 10.11.6
 Xcode 7.3.1
 iOS 9.2 SDK
 Objective-C
